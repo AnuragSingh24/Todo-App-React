@@ -9,12 +9,14 @@
 
 
 *INCOMPLETE TASK*
+
 ![image](https://github.com/AnuragSingh24/Todo-App-React/assets/145691945/fe7c2340-a2a4-4cca-a4f8-1ec13dc09844)
 
 
 
 
 *SORTING THE TASK*
+
 ![image](https://github.com/AnuragSingh24/Todo-App-React/assets/145691945/54a14924-be55-4c6e-ad3e-95fb84a0acd7)
 
 
